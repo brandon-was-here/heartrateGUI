@@ -1,0 +1,5 @@
+{
+  "last_port": "COM3",
+  "baud": 9600,
+  "smoothing_window": 5
+}
